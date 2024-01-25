@@ -1,2 +1,2 @@
-# APEX_EXTENTION_FORUM 
+# ForumExtension 
  This is a extension for my Forum
